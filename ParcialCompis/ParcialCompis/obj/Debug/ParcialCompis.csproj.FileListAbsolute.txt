@@ -1,0 +1,7 @@
+C:\Users\dcord\Desktop\ED2\PARCIAL1_COMPIS\ParcialCompis\ParcialCompis\bin\Debug\ParcialCompis.exe.config
+C:\Users\dcord\Desktop\ED2\PARCIAL1_COMPIS\ParcialCompis\ParcialCompis\bin\Debug\ParcialCompis.exe
+C:\Users\dcord\Desktop\ED2\PARCIAL1_COMPIS\ParcialCompis\ParcialCompis\bin\Debug\ParcialCompis.pdb
+C:\Users\dcord\Desktop\ED2\PARCIAL1_COMPIS\ParcialCompis\ParcialCompis\obj\Debug\ParcialCompis.csproj.AssemblyReference.cache
+C:\Users\dcord\Desktop\ED2\PARCIAL1_COMPIS\ParcialCompis\ParcialCompis\obj\Debug\ParcialCompis.csproj.CoreCompileInputs.cache
+C:\Users\dcord\Desktop\ED2\PARCIAL1_COMPIS\ParcialCompis\ParcialCompis\obj\Debug\ParcialCompis.exe
+C:\Users\dcord\Desktop\ED2\PARCIAL1_COMPIS\ParcialCompis\ParcialCompis\obj\Debug\ParcialCompis.pdb
